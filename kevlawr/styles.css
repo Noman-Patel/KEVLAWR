@@ -83,7 +83,7 @@ body {
 /* Hero Section */
 .hero {
     padding-top: 100px;
-    min-height: 60vh;
+    min-height: 100vh;
     background: var(--light-bg);
     display: flex;
     align-items: center;
